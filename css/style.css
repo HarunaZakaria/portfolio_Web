@@ -109,6 +109,9 @@
     background: url(../img/bg-header.png) left top no-repeat;
 }
 
+.social-btn{
+    margin: 4px;
+}
 .typed-cursor {
     font-size: 30px;
     color: var(--dark);
