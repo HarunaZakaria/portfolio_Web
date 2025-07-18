@@ -1,4 +1,5 @@
 import './App.css';
+import NavBar from './Component/NavBar';
 
 function App() {
   return (
@@ -69,6 +70,18 @@ function App() {
           </div>
         </nav>
       </div>
+      <NavBar />
+      <p>
+        A passionate and results-oriented Software Engineer based in Ghana, I
+        specialize in crafting dynamic and user-friendly web applications. My
+        expertise lies in leveraging modern technologies to build scalable and
+        efficient solutions. I bring a strong understanding of front-end
+        development with React and responsive design using Bootstrap. On the
+        backend, I am proficient in building robust and scalable APIs with
+        Node.js and managing data effectively with MongoDB. I am eager to
+        contribute my skills to innovative projects and collaborate with
+        forward-thinking teams. Explore my portfolio to see examples of my work.
+      </p>
     </>
   );
 }
