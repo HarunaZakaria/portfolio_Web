@@ -6,9 +6,10 @@ function App() {
     <>
       <header>
         <Navbar />
-        <Home />
       </header>
-      <main></main>
+      <main>
+        <Home />
+      </main>
     </>
   );
 }
