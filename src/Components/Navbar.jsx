@@ -58,7 +58,7 @@ export default function Navbar() {
                 <ul className="navbar-nav text-cente">
                   <li className="nav-item">
                     <a className="nav-link" href="#">
-                      Download
+                      Resume
                     </a>
                   </li>
                 </ul>
