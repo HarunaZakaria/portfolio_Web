@@ -170,6 +170,12 @@ export default function Home() {
           <p>GJANGO</p>
           <p>GIT</p>
         </div>
+        <div className="want-to-connect">
+          <h1>Let's connect and build together!</h1>
+          <p>Looking for a developer to collaborate on a project? </p>
+          <button className=" btn btn-primary">Start a project</button>
+          <button className="btn btn-outline-primary">View my work</button>
+        </div>
       </div>
     </div>
   );
